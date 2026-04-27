@@ -180,7 +180,7 @@ if (isset($_GET['sort'])) {
 
 <footer class="bg-light text-center py-3 border-top">
     <small class="text-muted">
-        © 2026 Book Management System | Mini Project
+        © 2026 Book Management System | By Tunphitcha Piphitkul
     </small>
 </footer>
 
